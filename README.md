@@ -1,4 +1,4 @@
-# Food Ordering Menu Java Console Application using Eclipse
+# Food Ordering Menu Java Console Application
 
 ## Pre-requisites
   - Download & Install Eclipse - https://www.eclipse.org/downloads/
