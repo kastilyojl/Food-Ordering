@@ -5,11 +5,11 @@
 
 ## Setup
   - Download the files.
-  - In eclipse, click Files, and Open Projects From File System
-  - Locate the downloaded files then click
-  - Run the program [Main.java]
+  - In eclipse, click Files, and Open Projects From File System.
+  - Locate the downloaded files then click.
+  - Run the program [Main.java].
 
-## Watch the full video and code explantion below:
+## Watch the full video and code explanation below:
   - https://youtu.be/QzBuFZMRBrA
 
 ## Support me
