@@ -12,7 +12,7 @@
 ## Watch the full video and code explanation below:
   - https://youtu.be/QzBuFZMRBrA
 
-## Support me
+## You can contact me below:
   - Facebook: https://www.facebook.com/johnlester.castillo.1?mibextid=YIjw0uDPbU8WYW2J
   - Instagram: https://www.instagram.com/kastilyojlb/?igsh=MWUxbGhibGRxdmowZw%3D%3D
 
